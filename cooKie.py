@@ -1,4 +1,0 @@
-from quoteList import inSpire
-
-
-
